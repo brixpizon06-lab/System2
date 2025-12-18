@@ -85,7 +85,7 @@ const Login = () => {
             <div className="flex items-center mb-10">
               <GraduationCap className="w-9 h-9 mr-3" />
               <h1 className="text-3xl font-bold">
-                Attendance <span className="text-white/80">Tracker</span>
+                Student Attendance & Grade <span className="text-white/80">Tracker</span>
               </h1>
             </div>
 
