@@ -87,7 +87,7 @@ const AdminDashboard = () => {
       <div className="w-60 bg-card border-r border-border flex flex-col">
         <div className="p-5 text-center border-b border-border">
           <h1 className="text-lg font-bold text-foreground">
-            Attendance <span className="text-primary">Tracker</span>
+            Student Attendance & Grade <span className="text-primary">Tracker</span>
           </h1>
         </div>
 
