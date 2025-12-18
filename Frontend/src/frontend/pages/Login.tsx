@@ -103,7 +103,7 @@ const Login = () => {
                 </div>
                 <div>
                   <h3 className="font-semibold text-lg">Student Management</h3>
-                  <p className="text-sm opacity-80">Manage all student records easily</p>
+                  <p className="text-sm opacity-80">Manage all student records easily.</p>
                 </div>
               </div>
 
@@ -112,8 +112,8 @@ const Login = () => {
                   <Clock className="w-6 h-6" />
                 </div>
                 <div>
-                  <h3 className="font-semibold text-lg">Real-time Attendance</h3>
-                  <p className="text-sm opacity-80">Track attendance in real-time</p>
+                  <h3 className="font-semibold text-lg">Real-time Attendance.</h3>
+                  <p className="text-sm opacity-80">Track attendance in real-time.</p>
                 </div>
               </div>
 
