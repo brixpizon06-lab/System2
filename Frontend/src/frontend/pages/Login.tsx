@@ -185,10 +185,7 @@ const Login = () => {
             </form>
 
             <div className="mt-8 text-center">
-              <p className="text-sm text-muted-foreground">
-                Demo: Use <span className="font-mono font-semibold text-foreground">admin@example.com</span> for admin or{" "}
-                <span className="font-mono font-semibold text-foreground">student@example.com</span> for student
-              </p>
+              
             </div>
           </div>
         </div>
